@@ -12,3 +12,4 @@ int main() {
         if (s[i] == ' ' && s[i+1] != ' ')
             count++; }
     printf("Number of words in given string are: %d\n", count + 1); }
+// just enter a sentence
